@@ -1,0 +1,15 @@
+{
+  "name": "dist",
+  "version": "1.0.0",
+  "scripts": {
+    "watch": "webpack watch",
+    "build": "webpack build",
+    "build-map": "webpack build --env map",
+    "serve": "webpack serve"
+  },
+  "devDependencies": {
+    "webpack": "^5.44.0",
+    "webpack-cli": "^4.7.2",
+    "webpack-dev-server": "^3.11.2"
+  }
+}
