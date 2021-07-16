@@ -1,0 +1,13 @@
+html { height: 100% }
+body {
+    display: flex;
+    height: 100%;
+    font-size: 100px;
+    font-weight: bold;
+    justify-content: space-around;
+}
+
+.css:before {
+    content: 'css';
+    color: #306bb3;
+}
