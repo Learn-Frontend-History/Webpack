@@ -1,0 +1,9 @@
+{
+  "env": {
+    "es6": true
+  },
+  "rules": {
+    "no-unused-vars": "warn",
+    "semi": "warn"
+  }
+}

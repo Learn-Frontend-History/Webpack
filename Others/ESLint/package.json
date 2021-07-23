@@ -1,0 +1,13 @@
+{
+  "name": "es-lint",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "webpack"
+  },
+  "devDependencies": {
+    "webpack": "^5.45.1",
+    "webpack-cli": "^4.7.2",
+    "html-webpack-plugin": "^5.3.2",
+    "eslint-webpack-plugin": "^3.0.1"
+  }
+}
